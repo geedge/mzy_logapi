@@ -2,5 +2,5 @@
 
 日志接口
 
-# log.py
+# read_policy,read_status
 
